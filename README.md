@@ -1,9 +1,9 @@
 Wit.ai PHP sdk
 ==============
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/tgallice/wit-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/tgallice/wit-php/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/tgallice/wit-php/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/tgallice/wit-php/?branch=master)
-[![Build Status](https://travis-ci.org/tgallice/wit-php.svg?branch=master)](https://travis-ci.org/tgallice/wit-php)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/raulmangolin/wit-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/raulmangolin/wit-php/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/raulmangolin/wit-php/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/raulmangolin/wit-php/?branch=master)
+[![Build Status](https://travis-ci.org/raulmangolin/wit-php.svg?branch=master)](https://travis-ci.org/raulmangolin/wit-php)
 
 This is an unofficial php sdk for [Wit.ai][1] and it's still in progress...
 
